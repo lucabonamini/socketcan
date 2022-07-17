@@ -1,4 +1,4 @@
-# SocketCAN
+# SocketCAN-Cpp
 A simple library for CAN communication, written in C++
 
 ## Dependencies
